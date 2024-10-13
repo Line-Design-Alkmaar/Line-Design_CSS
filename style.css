@@ -1,0 +1,139 @@
+/* HEADER */
+header{
+    background-color: aqua;
+    width: 1024px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 40px
+}
+footer{
+    background-color: aqua;
+    width: 1024px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+}
+/* TABLE */
+#een{
+    background-color: blueviolet;
+    width: 100px;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+#twee{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    background-image: url("werken.jpg");
+    background-size: cover;
+    position: relative;
+}
+#drie{
+    background-color: rgb(61, 51, 174);
+    width: 100px;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+#vier{
+    background-color: rgb(68, 186, 33);
+    width: 100px;
+    height: 25px;
+    background-image: url("kletsen.jpg");
+    background-size: cover;
+    position: relative;
+    }
+#vijf{
+    background-color: rgba(143, 121, 190, 0.804);
+    width: 100px;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+#zes{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    background-image: url("baan.jpg");
+    background-size: cover;
+    position: relative;
+}
+#zeven{
+    background-color: yellow;
+    width: 100px;
+    height: 25px;
+    color: white; 
+    text-align: center;
+}
+#acht{
+    background-color: gray;
+    width: 100px;
+    height: 25px;
+    background-image: url("vergaderen.webp");
+    background-size: cover;
+    position: relative;
+}
+#negen{
+    background-color: rgb(101, 118, 20);
+    width: 100px;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+#tien{
+    background-color: rgb(17, 68, 96);
+    width: 100px;
+    height: 100px;
+    background-image: url("zoeken.png");
+    background-size: cover;
+    position: relative;
+}
+#elf{
+    background-color: rgb(176, 112, 27);
+    width: 100px;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+#twaalf{
+    background-color: rgb(43, 17, 65);
+    width: 100px;
+    height: 25px;
+    background-image: url("ondernemen.jpeg");
+    background-size: cover;
+    position: relative;
+}
+#dertien{
+    background-color: rgb(124, 129, 179);
+    width: 100px;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+#veertien{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    background-image: url("inkomen.jpg");
+    background-size: cover;
+    position: relative;
+}
+#vijftien{
+    background-color: blue;
+    width: 100px;
+    height: 25px;
+    color: white;
+    text-align: center;
+}
+#zestien{
+    background-color: rgb(203, 214, 147);
+    width: 100px;
+    height: 25px;
+    background-image: url("verdienen.jpg");
+    background-size: cover;
+    position: relative;
+}
